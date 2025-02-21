@@ -1,12 +1,12 @@
 <h1 align="center">
-Hello, i'm Adrián!
+Hello, i'm Jorge!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
 
-   <img src="https://komarev.com/ghpvc/?username=aadrii09&color=green" alt="Profile views" align='right'/> <a href="https://github.com/aadrii09/aadrii09/"> </a> 
+   <img src="https://komarev.com/ghpvc/?username=Jorgepr02&color=green" alt="Profile views" align='right'/> <a href="https://github.com/Jorgepr02/Jorgepr02/"> </a> 
 <br/>
   
 <p align="center">
-  <a href="https://github.com/aadrii09/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Game+Dev+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Jorgepr02/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Game+Dev+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <hr>
@@ -26,7 +26,7 @@ adriancastobeiro@gmail.com
 <hr>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/aadrii09/animatedSnake/main/github-contribution-grid-snake.svg" alt="Snake Game"/>
+    <img src="https://raw.githubusercontent.com/Jorgepr02/animatedSnake/main/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
 
 
@@ -122,19 +122,19 @@ adriancastobeiro@gmail.com
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/aadrii09">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aadrii09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aadrii09&layout=compact&langs_count=8&theme=algolia"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadrii09&theme=radical" alt="profile detail" />
+<a href="https://github.com/Jorgepr02">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jorgepr02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jorgepr02&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jorgepr02&theme=radical" alt="profile detail" />
 </a>
 </p>
 
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadrii09&theme=radical">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadrii09&theme=radical">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aadrii09&theme=radical">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aadrii09&theme=radical&utcOffset=1">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jorgepr02&theme=radical">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jorgepr02&theme=radical">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jorgepr02&theme=radical">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jorgepr02&theme=radical&utcOffset=1">
 </p>
 
 
@@ -144,7 +144,7 @@ adriancastobeiro@gmail.com
 
 ## 🏆 GitHub Trophies
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=aadrii09&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Jorgepr02&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 
@@ -176,7 +176,7 @@ Sunday       commits     ███████░░░░░░░░░░░�
 ## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadrii09&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false&max=10" style="border-radius: 15px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jorgepr02&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false&max=10" style="border-radius: 15px;">
 </p>
 
 
@@ -186,7 +186,7 @@ Sunday       commits     ███████░░░░░░░░░░░�
 ## 🔥My Motto</span>
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=00FF00&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(aadrii09);....+s.explore();....+s.learn();....+s.contribute()"/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=00FF00&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(Jorgepr02);....+s.explore();....+s.learn();....+s.contribute()"/>
 
 
 
@@ -198,20 +198,20 @@ Sunday       commits     ███████░░░░░░░░░░░�
 <hr>
 <h1><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"><span style="font-size: 30px"> For More Information, Please Check Out or Connect Me Via</span></h1>
 <p align="center">
-  <a href="https://github.com/aadrii09" target="_blank">
-    <img align="center" alt="aadrii09 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <a href="https://github.com/Jorgepr02" target="_blank">
+    <img align="center" alt="Jorgepr02 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/" target="_blank">
-    <img align="center" alt="aadrii09 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="Jorgepr02 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.facebook.com/" target="_blank">
-      <img align="center" alt="aadrii09 | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+      <img align="center" alt="Jorgepr02 | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/" target="_blank">
-    <img align="center" alt="aadrii09 | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="center" alt="Jorgepr02 | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
 <p> 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2025 aadrii09
+  &copy; 2025 Jorgepr02
 </div>
