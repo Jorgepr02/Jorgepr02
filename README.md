@@ -2,8 +2,6 @@
 Hello, i'm Jorge!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
 
-   <img src="https://komarev.com/ghpvc/?username=Jorgepr02&color=green" alt="Profile views" align='right'/> <a href="https://github.com/Jorgepr02/Jorgepr02/"> </a> 
-<br/>
   
 <p align="center">
   <a href="https://github.com/Jorgepr02/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Game+Dev+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
