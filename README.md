@@ -179,17 +179,8 @@ Sunday       commits     ███████░░░░░░░░░░░�
 <hr>
 <h1><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"><span style="font-size: 30px"> For More Information, Please Check Out or Connect Me Via</span></h1>
 <p align="center">
-  <a href="https://github.com/Jorgepr02" target="_blank">
-    <img align="center" alt="Jorgepr02 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img align="center" alt="Jorgepr02 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.facebook.com/" target="_blank">
-      <img align="center" alt="Jorgepr02 | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/" target="_blank">
-    <img align="center" alt="Jorgepr02 | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <a href="mailto:jpr03615@gmail.com" target="_blank">
+    <img align="center" alt="Jorgepr02 | Gmail" width="24px" src="[https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png)" />
   </a> &nbsp;&nbsp;
 <p> 
 <div align="center">
