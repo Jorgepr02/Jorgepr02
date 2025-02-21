@@ -180,7 +180,7 @@ Sunday       commits     ███████░░░░░░░░░░░�
 <h1><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"><span style="font-size: 30px"> For More Information, Please Check Out or Connect Me Via</span></h1>
 <p align="center">
   <a href="mailto:jpr03615@gmail.com" target="_blank">
-    <img align="center" alt="Jorgepr02 | Gmail" width="24px" src="[https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png)" />
+    <img align="center" alt="Jorgepr02 | Gmail" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
 <div align="center">
