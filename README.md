@@ -131,16 +131,6 @@ jpr03615@gmail.com
 </p>
 
 
-
-
-
-
-## 🏆 GitHub Trophies
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jorgepr02&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
-
 ## ☀️Productivity
 <hr>
 <!--START_SECTION:waka-->
