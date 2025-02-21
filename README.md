@@ -12,7 +12,7 @@ Hello, i'm Jorge!
 <hr>
 
 ```
-adriancastobeiro@gmail.com
+jpr03615@gmail.com
 -------------------------
 💻 I am a self taught Full Stack Developer
 📝 I have certified studies and courses
@@ -24,13 +24,6 @@ adriancastobeiro@gmail.com
 💖 Love to continue learning something new every day
 ```
 <hr>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Jorgepr02/animatedSnake/main/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>
-
-
-
 
 
 ## 🛠️ My Favorite Tools
