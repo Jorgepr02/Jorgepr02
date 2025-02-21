@@ -12,13 +12,10 @@ Hello, i'm Jorge!
 ```
 jpr03615@gmail.com
 -------------------------
-💻 I am a self taught Full Stack Developer
 📝 I have certified studies and courses
-📚 I have a strong interest in Data Science, Artificial Intelligence
-🔭 Working on development
-🌱 Learning about Hardware and AI
-🌟 Main languages: Java, HTML, CSS and Java Script 
-🚩 Interested in Full Stack Application Development
+📚 I have a strong interest in Artificial Intelligence, Data Science
+🌱 Learning about Software and AI
+🌟 Main languages: PHP, React, Java, HTML, CSS and Java Script 
 💖 Love to continue learning something new every day
 ```
 <hr>
