@@ -10,7 +10,7 @@ Hello, i'm Jorge!
 <hr>
 
 ```
-jpr03615@gmail.com
+jprx1337@gmail.com
 -------------------------
 📝 I have certified studies and courses
 📚 I have a strong interest in Artificial Intelligence, Data Science
