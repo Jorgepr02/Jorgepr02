@@ -45,7 +45,6 @@ every day.
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1f2937?style=for-the-badge&logo=nodedotjs&logoColor=22c55e">
   <img alt="Python" src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=facc15">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql&logoColor=38bdf8">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=60a5fa">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=38bdf8">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-1f2937?style=for-the-badge&logo=linux&logoColor=facc15">
 </p>
@@ -67,7 +66,6 @@ every day.
   <img alt="Ollama" src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logoColor=white">
   <img alt="LM Studio" src="https://img.shields.io/badge/LM%20Studio-111827?style=for-the-badge&logoColor=white">
   <img alt="Stable Diffusion" src="https://img.shields.io/badge/Stable%20Diffusion-111827?style=for-the-badge&logoColor=white">
-  <img alt="AUTOMATIC1111" src="https://img.shields.io/badge/AUTOMATIC1111-111827?style=for-the-badge&logoColor=white">
   <img alt="LoRA" src="https://img.shields.io/badge/LoRA-111827?style=for-the-badge&logoColor=white">
 </p>
 
