@@ -64,7 +64,7 @@ every day.
   <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-111827?style=for-the-badge&logoColor=white">
   <img alt="OpenClaw" src="https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge&logoColor=white">
   <img alt="Hermes" src="https://img.shields.io/badge/Hermes-111827?style=for-the-badge&logoColor=white">
-  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white">
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logoColor=white">
   <img alt="LM Studio" src="https://img.shields.io/badge/LM%20Studio-111827?style=for-the-badge&logoColor=white">
   <img alt="Stable Diffusion" src="https://img.shields.io/badge/Stable%20Diffusion-111827?style=for-the-badge&logoColor=white">
   <img alt="AUTOMATIC1111" src="https://img.shields.io/badge/AUTOMATIC1111-111827?style=for-the-badge&logoColor=white">
@@ -103,7 +103,7 @@ and scattered processes.
 
 <p align="center">
   <a href="mailto:jprx1337@gmail.com">
-    <img align="center" alt="Gmail" width="24px" src="https://cdn.simpleicons.org/gmail/EA4335">
+    <img align="center" alt="Gmail" width="24px" src="https://cdn.simpleicons.org/gmail">
   </a>
 </p>
 
