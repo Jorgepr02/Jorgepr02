@@ -1,186 +1,110 @@
 <h1 align="center">
-Hello, i'm Jorge!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
-
-  
-<p align="center">
-  <a href="https://github.com/Jorgepr02/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Game+Dev+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
-<hr>
-
-```
-jprx1337@gmail.com
--------------------------
-📝 I have certified studies and courses
-📚 I have a strong interest in Artificial Intelligence, Data Science
-🌱 Learning about Software and AI
-🌟 Main languages: TypeScript, PHP, React, Java, HTML, CSS and JavaScript 
-💖 Love to continue learning something new every day
-```
-<hr>
-
-
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Languages
-
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    
-
-
-### 📚 Frameworks and Libraries
-
-<p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
-<a href="#"><img alt="Doctrine" src="https://img.shields.io/badge/Doctrine-20232A?style=for-the-badge&logo=doctrine&logoColor=6DB33F"></a>
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
-
-
-</p>
-
-### 🧪 Rest
-
-<p>
-
-<!-- <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"></a> -->
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-
-
-</p>
-
-
-### 🗄️ Databases and Cloud Hosting
-
-<p>
-   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="MySQL Pages" src="https://img.shields.io/badge/MySQL%20Pages-%234479A1.svg?logo=mysql&logoColor=white"></a>
-<a href="#"><img alt="Sqlite Pages" src="https://img.shields.io/badge/Sqlite-%23003B57.svg?logo=sqlite&logoColor=white"></a>
-<a href="#"><img alt="Firebase Pages" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black"></a>
-<a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-%23D22128.svg?logo=apache&logoColor=white"></a>
-<a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%234C4E52.svg?logo=hibernate&logoColor=white"></a>
-
-  
-
-
-### 💻🛠️ Software and Tools
-
-<p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%239B30FF.svg?logo=figma&logoColor=white"></a>
-    <a href="#"><img alt="Penpot" src="https://img.shields.io/badge/Penpot-%2300E676.svg?logo=penpot&logoColor=white"></a>
-    <a href="#"><img alt="Office" src="https://img.shields.io/badge/Office-%23D83B01.svg?logo=office&logoColor=white"></a>
-    <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-%23217346.svg?logo=excel&logoColor=white"></a>
-    <a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-%23000000.svg?logo=json&logoColor=white"></a>
-    <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%23000000.svg?logo=canva&logoColor=00C2A8"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white"></a>
-  
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Visual" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
-    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
-    <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"></a>
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>
-    
-</p>
-
-### 🐧 Linux Distros
-<p>
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white"></a>
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white"></a>
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white"></a>
-
-</p>
-
-
-### ⚙️ &nbsp;GitHub Analytics
+  Hello, i'm Jorge!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave">
+</h1>
 
 <p align="center">
-<a href="https://github.com/Jorgepr02">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jorgepr02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jorgepr02&layout=compact&langs_count=8&theme=algolia"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jorgepr02&theme=radical" alt="profile detail" />
-</a>
+  <strong>Full-stack developer focused on production websites, internal tools, local AI and automation.</strong>
 </p>
 
-
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jorgepr02&theme=radical">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jorgepr02&theme=radical">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jorgepr02&theme=radical">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jorgepr02&theme=radical&utcOffset=1">
-</p>
-
-
-## ☀️Productivity
-<hr>
-<!--START_SECTION:waka-->
-🗓️Daily productivity
-
-```text
-🌞 Morning    commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
-🌆 Daytime    commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
-🌃 Evening    commits    █████████████░░░░░░░░░░░░   53.09% 
-🌙 Night      commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
-
-```
-📅When am I most productive?
-
-```text
-Monday       commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-Tuesday      commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Wednesday    commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-Thursday     commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Friday       commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
-Saturday     commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Sunday       commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
-
-```
-
-## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jorgepr02&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false&max=10" style="border-radius: 15px;">
-</p>
-
-
-  <hr>
-
-
-## 🔥My Motto</span>
-
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=00FF00&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(Jorgepr02);....+s.explore();....+s.learn();....+s.contribute()"/>
-
-
-
-
-
-
-
-
-<hr>
-<h1><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"><span style="font-size: 30px"> For More Information, Please Check Out or Connect Me Via</span></h1>
-<p align="center">
-  <a href="mailto:jprx1337@gmail.com" target="_blank">
-    <img align="center" alt="Jorgepr02 | Gmail" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
+  <a href="https://github.com/Jorgepr02/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Production-ready+web+apps;Internal+dashboards+and+business+tools;Local+AI+and+agentic+automation;Servers%2C+deployments+and+maintenance&center=true&width=620&height=45" alt="Typing SVG">
   </a>
-<p> 
+</p>
+
+---
+
+## About Me
+
+I build practical software for real business needs: professional websites, internal panels,
+automation workflows, API-driven tools and local AI systems.
+
+My work usually sits between clean full-stack development, production operations and applied AI:
+turning manual processes into reliable interfaces, services and automations that people can use
+every day.
+
+---
+
+## What I Build
+
+- Professional websites and production-ready web platforms.
+- Internal dashboards, admin panels and business management tools.
+- Backend services with clean structure, clear data flow and maintainable architecture.
+- Automation workflows with agents, scripts and API integrations.
+- Local AI pipelines for image generation, OCR, visual understanding and document processing.
+- Server deployments, diagnostics, maintenance and production support.
+
+---
+
+## Core Stack
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1f2937?style=for-the-badge&logo=typescript&logoColor=60a5fa">
+  <img alt="React" src="https://img.shields.io/badge/React-1f2937?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1f2937?style=for-the-badge&logo=nodedotjs&logoColor=22c55e">
+  <img alt="Python" src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=facc15">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql&logoColor=38bdf8">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=60a5fa">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=38bdf8">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-1f2937?style=for-the-badge&logo=linux&logoColor=facc15">
+</p>
+
+**Frontend:** React, TypeScript, Vite, Tailwind CSS, shadcn/Radix, SWR, Zustand.
+
+**Backend:** Node.js, Express, Fastify, REST APIs, TypeORM, Prisma, Kysely, SQL databases.
+
+**Operations:** Linux, Docker, Plesk, deployments, server maintenance, debugging and monitoring.
+
+---
+
+## Local AI & Automation
+
+<p>
+  <img alt="Stable Diffusion" src="https://img.shields.io/badge/Stable%20Diffusion-111827?style=for-the-badge&logoColor=white">
+  <img alt="AUTOMATIC1111" src="https://img.shields.io/badge/AUTOMATIC1111-111827?style=for-the-badge&logoColor=white">
+  <img alt="LoRA" src="https://img.shields.io/badge/LoRA-111827?style=for-the-badge&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=22c55e">
+  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-111827?style=for-the-badge&logoColor=white">
+</p>
+
+- Local AI workflows with Stable Diffusion, AUTOMATIC1111 and LoRA-based image generation.
+- OCR/VLM experiments and document understanding pipelines with local services.
+- Agentic development workflows with OpenCode, OpenClaw, Hermes and custom rules.
+- Automation-first tooling for repetitive development, content and business processes.
+- Practical focus on privacy, cost control and local execution when it makes sense.
+
+---
+
+## Professional Focus
+
+I care about software that survives real usage: clear structure, maintainable code, predictable
+deployments, useful interfaces and systems that are easy to operate after launch.
+
+I enjoy building the kind of tools that companies actually depend on: panels, workflows,
+integrations, private platforms and backoffice systems that replace spreadsheets, manual checks
+and scattered processes.
+
+---
+
+## My Motto
+
+<p align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=1800&color=22C55E&background=0D1117&multiline=true&width=560&height=135&lines=while+(true)+%7B;..learn();;..build();;..automate();;%7D" alt="My motto">
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="mailto:jprx1337@gmail.com">
+    <img align="center" alt="Gmail" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png">
+  </a>
+</p>
+
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2025 Jorgepr02
+  Thanks for visiting my profile. Have a nice day!
+  <br>
+  &copy; 2026 Jorgepr02
 </div>
