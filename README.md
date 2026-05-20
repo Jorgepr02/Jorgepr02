@@ -61,17 +61,21 @@ every day.
 ## Local AI & Automation
 
 <p>
+  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-111827?style=for-the-badge&logoColor=white">
+  <img alt="OpenClaw" src="https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge&logoColor=white">
+  <img alt="Hermes" src="https://img.shields.io/badge/Hermes-111827?style=for-the-badge&logoColor=white">
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white">
+  <img alt="LM Studio" src="https://img.shields.io/badge/LM%20Studio-111827?style=for-the-badge&logoColor=white">
   <img alt="Stable Diffusion" src="https://img.shields.io/badge/Stable%20Diffusion-111827?style=for-the-badge&logoColor=white">
   <img alt="AUTOMATIC1111" src="https://img.shields.io/badge/AUTOMATIC1111-111827?style=for-the-badge&logoColor=white">
   <img alt="LoRA" src="https://img.shields.io/badge/LoRA-111827?style=for-the-badge&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=22c55e">
-  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-111827?style=for-the-badge&logoColor=white">
 </p>
 
-- Local AI workflows with Stable Diffusion, AUTOMATIC1111 and LoRA-based image generation.
-- OCR/VLM experiments and document understanding pipelines with local services.
+- Local LLM workflows with Ollama, LM Studio and private model setups.
+- Chatbots, assistants and agentic workflows for development and business automation.
 - Agentic development workflows with OpenCode, OpenClaw, Hermes and custom rules.
-- Automation-first tooling for repetitive development, content and business processes.
+- Local image generation with Stable Diffusion, AUTOMATIC1111 and LoRA-based workflows.
+- OCR/VLM and document understanding pipelines when visual extraction is needed.
 - Practical focus on privacy, cost control and local execution when it makes sense.
 
 ---
@@ -87,11 +91,11 @@ and scattered processes.
 
 ---
 
-## My Motto
+## My Motto</span>
 
-<p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=1800&color=22C55E&background=0D1117&multiline=true&width=560&height=135&lines=while+(true)+%7B;..learn();;..build();;..automate();;%7D" alt="My motto">
-</p>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=00FF00&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(Jorgepr02);....+s.explore();....+s.learn();....+s.contribute()"/>
+
 
 ---
 
@@ -99,7 +103,7 @@ and scattered processes.
 
 <p align="center">
   <a href="mailto:jprx1337@gmail.com">
-    <img align="center" alt="Gmail" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png">
+    <img align="center" alt="Gmail" width="24px" src="https://cdn.simpleicons.org/gmail/EA4335">
   </a>
 </p>
 
