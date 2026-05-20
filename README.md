@@ -78,16 +78,6 @@ every day.
 - OCR/VLM and document understanding pipelines when visual extraction is needed.
 - Practical focus on privacy, cost control and local execution when it makes sense.
 
----
-
-## Professional Focus
-
-I care about software that survives real usage: clear structure, maintainable code, predictable
-deployments, useful interfaces and systems that are easy to operate after launch.
-
-I enjoy building the kind of tools that companies actually depend on: panels, workflows,
-integrations, private platforms and backoffice systems that replace spreadsheets, manual checks
-and scattered processes.
 
 ---
 
