@@ -91,8 +91,7 @@ every day.
 
 <p align="center">
   <a href="mailto:jprx1337@gmail.com">
-    <img align="center" alt="Gmail" width="24px" src="https://cdn.simpleicons.org/gmail">
-  </a>
+    <img align="center" alt="Email" width="24px" src="https://api.iconify.design/mdi:email.svg">  </a>
 </p>
 
 <div align="center">
