@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jorgepr02/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Production-ready+web+apps;Internal+dashboards+and+business+tools;Local+AI+and+agentic+automation;Servers%2C+deployments+and+maintenance&center=true&width=620&height=45" alt="Typing SVG">
-  </a>
 </p>
 
 ---
