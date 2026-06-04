@@ -93,7 +93,5 @@ every day.
 </p>
 
 <div align="center">
-  Thanks for visiting my profile. Have a nice day!
-  <br>
   &copy; 2026 Jorgepr02
 </div>
